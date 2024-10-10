@@ -1,0 +1,7 @@
+.vscode/
+.DS_Store
+*.swp
+tags
+output
+output.txt
+__pycache__
